@@ -14,7 +14,7 @@ This project presents an **interactive E-commerce Sales Dashboard** that provide
   * **Customer Data:** Segment, City, Region
   * **Product Data:** Categories, Sub-Categories, Best Selling Products
 
-*(Dataset source: \[mention Kaggle / internal / given dataset])*
+
 
 ## 🎯 Dashboard Highlights
 
