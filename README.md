@@ -65,4 +65,3 @@ The dashboard provides answers to key business questions such as:
 
 
 
-Would you like me to **make this README more formal (project report style for academic submission)** or keep it in **GitHub-style (developer-friendly, with emojis & sections)**?
